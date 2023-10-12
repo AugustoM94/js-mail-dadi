@@ -21,6 +21,5 @@ Se dobbiamo confrontare qualcosa che "cosa" ci serve?
 
 Soluzione
 
-indicare un array con le cifre da 1 a 6 
 inserire un button in html e richiamare in js
 inserire un event click con un function che permette in maniera random l'uscita di una cifra sia per me che per la cpu e confrontarla
